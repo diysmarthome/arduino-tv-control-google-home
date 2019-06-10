@@ -1,0 +1,16 @@
+Logitec
+    On/Off : 
+        400501FE
+        FFFFFFFF
+    Sound + : 
+        400555AA
+        FFFFFFFF
+    Sound - :
+        400556A9
+        FFFFFFFF
+
+
+Samsoung Tv:
+    On/Off :
+        E0E040BF
+        E0E040BF
